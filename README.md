@@ -1,2 +1,3 @@
 # first-Repo
-This is a practice and learning purpous
+This is a practice and learning of github.
+
